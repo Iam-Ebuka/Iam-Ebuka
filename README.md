@@ -4,8 +4,8 @@ I’m a passionate Mobile Engineer specializing in *React Native* and *TypeScrip
 
 ### Tech Stack
 - *Languages:* JavaScript, TypeScript, Dart
-- *Frameworks & Libraries:* React Native, Expo, Redux Toolkit, Reanimated, React Navigation
-- *Backend:* Firebase, Supabase, REST APIs, GraphQL (learning)
+- *Frameworks & Libraries:* React Native, Expo, React, Nextjs, Redux Toolkit, Reanimated, React Navigation
+- *Backend:* Nodejs, Firebase, Supabase, REST APIs, GraphQL (learning)
 - *DevOps:* EAS Build, Fastlane (learning), GitHub Actions
 - *Tools:* VS Code, Flipper, Postman, Git, Figma
 
