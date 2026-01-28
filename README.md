@@ -1,4 +1,4 @@
-# Hi, I'm Ebuka – Seasoned Software Engineer
+# Hi, Iam-Ebuka – Seasoned Software Engineer
 
 I’m a passionate Mobile Engineer specializing in *React Native* and *TypeScript*, with a focus on building clean, responsive, and scalable mobile applications.
 
